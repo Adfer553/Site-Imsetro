@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://imsetro-vendas-perspectiva.wholedawn1.chatgpt.site/$1"
+    }
+  ]
+}
